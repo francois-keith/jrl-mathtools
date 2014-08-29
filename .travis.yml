@@ -1,7 +1,6 @@
 language: cpp
 compiler:
   - gcc
-  - clang
 env:
   global:
   - DEBSIGN_KEYID=5AE5CD75
